@@ -1,0 +1,18 @@
+{
+    "name": "alfianizzah/tutorial",
+    "description": "package laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alfianizzah\\Tutorial\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MuhammadAlfianIzzah",
+            "email": "alfianizzah6@gmail.com"
+        }
+    ],
+    "require": {}
+}
