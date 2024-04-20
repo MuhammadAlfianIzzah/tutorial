@@ -8,4 +8,8 @@ class HelperString
     {
         return "hello world";
     }
+    public static function stringToArray($string)
+    {
+        return explode(" ", $string);
+    }
 }
