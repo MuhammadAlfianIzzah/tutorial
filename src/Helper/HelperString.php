@@ -1,6 +1,6 @@
 <?php
 
-namespace Alfianizzah\Tutorial;
+namespace Alfianizzah\Tutorial\Helper;
 
 class HelperString
 {
